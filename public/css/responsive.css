@@ -1,0 +1,63 @@
+@media (max-width:1024px){
+
+
+
+}
+
+
+@media (max-width:991px){
+
+    /* custom Classes */
+    .text-content{
+        width: 100%;
+    }
+
+    /* navbar brand */
+    .navigation-wrap .navbar-brand img{
+        width: 140px;
+        height: 3.8125rem;
+    }
+    #navbarText{
+        text-align: center;
+        background-color: var(--white-color);
+    }
+    .navigation-wrap .nav-link{
+        line-height: 1.875;
+    }
+    
+    /* top banner */
+    .top-banner {
+        padding: 6.875rem 0 9.375rem;
+    }
+
+    /* step section */
+
+    .step-section {
+        height: auto;
+        padding: 3rem 0;
+    }
+
+
+}
+
+@media (max-width:767px){
+    /* custom css */
+    h2{
+        font-size: 2.8rem;
+    }
+
+    h4{
+        font-size: 1.2rem;
+        line-height: 2.0625rem;
+    }
+
+    
+}
+
+
+@media (max-width:330px){
+    /* .top-banner .img img {
+        width: 100%;
+        padding-top: 4rem;
+    } */
+}
